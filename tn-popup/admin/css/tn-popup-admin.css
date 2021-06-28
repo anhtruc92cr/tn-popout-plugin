@@ -1,0 +1,10 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ .select2-selection__choice__display{
+ 	padding-left: 20px!important;
+ }
+.select2-container--default.select2-container--focus .select2-selection--multiple{
+	padding-bottom: 30px;
+}
